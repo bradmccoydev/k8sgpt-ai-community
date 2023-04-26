@@ -5,7 +5,7 @@ As of 2023 there is an interesting intersection of technology and interests that
 
 To do this will be a combination of human domain knowledge, codified analysis, parsing and computation of logs and configuration by remote AI services to simplify messages back to the user. There are additional possibilities of multi-language support, definition of specific problem types and even integration into existing CI/CD based workflows.
 
-This project will be licensed under MIT and open source. The project team will strive to create AI providers that have options that are a combination of proprietary & non-proprietary services.
+This project will be licensed under Apache2 and open source. The project team will strive to create AI providers that have options that are a combination of proprietary & non-proprietary services.
 
 
 Goals
